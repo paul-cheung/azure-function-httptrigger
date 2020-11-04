@@ -1,1 +1,1 @@
-* create function app with http trigger from vscode and deploy it to azure.
+* A whole sample project for an Azure Function with HttpTrigger.
