@@ -1,5 +1,1 @@
-* A whole sample project for an Azure Function with HttpTrigger.
-
-* Sample Webhook
-* azure-function-hook
-https://demooutgoingwebhook.azurewebsites.net/api/HttpTriggerCSharp1?
+* A sample project of outgoing web hook implemented by Azure Function with type HttpTrigger.
